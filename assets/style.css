@@ -11,7 +11,7 @@ html, body {
 }
 
 body {
-    /* Background image CSS from https://web.dev/optimize-css-background-images-with-media-queries/*/
+    background-color: aquamarine;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -55,7 +55,7 @@ list-style-type: none;
 .ansBtn:active:focus {
     box-shadow: none;
     outline: none;
-    background-color: #a72828;
+    background-color: green;
 }
 
 /* Media queries for background image from https://web.dev/optimize-css-background-images-with-media-queries/ */
